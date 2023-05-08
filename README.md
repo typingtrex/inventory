@@ -1,4 +1,5 @@
-Easy UI for older patients who need to keep track of their meds for doctor visits and for their daily medical upkeep.
+keep track of all purchases
 
-- Alarms will be a secondary feature that will aid patients with consistent medicine intake
-- scanning a picture of the medicine will be another feature so that patients will not need to mannually input their medicine and how often.
+- first to scan receipts and add to "inventory"
+- then build out different home areas for the inventory items to be placed
+- kitchen, closet, gaarage, etc.
